@@ -33,5 +33,6 @@ else
 	cd develop/
 	git add .
 	git commit -m "this is for develop"
+	git checkout develop
 	git push origin develop
 fi
